@@ -43,7 +43,8 @@ Review the Solidity documentation for any specific concerns or questions.
 For further assistance, you can consult the official documentation of the Ethereum development environment you are using or seek help from the Solidity community.
 
 # Authors
-Your Name -AlAM Contact: thouhedul.alam.tonoy@gmail.com
+Your Name -ALAM 
+Contact: thouhedul.alam.tonoy@gmail.com
 
 # License
 This project is licensed under the MIT License.
